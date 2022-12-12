@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 3e252574ec07b4e4aaddc5ee6d94819f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alexandria
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0f0fa45c8cdc5442ab8c76674d9a500, type: 3}
+  - {fileID: 12800000, guid: f55919a4dedbc5745ab0f09c661636eb, type: 3}
+  - {fileID: 12800000, guid: 927bb68a1da491140b926bc94996a336, type: 3}
+  - {fileID: 12800000, guid: 44ba530bfa153844bb7d36ebb8070cf4, type: 3}
+  - {fileID: 12800000, guid: 17bb305f2f51a5c49998411ec050d39e, type: 3}
+  - {fileID: 12800000, guid: 4825164b886640b4fbe8031d6636353f, type: 3}
+  - {fileID: 12800000, guid: 045d05aac39c1cd4f84b3f3a2b226295, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

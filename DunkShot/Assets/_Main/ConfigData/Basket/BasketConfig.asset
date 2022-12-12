@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26eb0ab04e0549a5a7c4454f9361950d, type: 3}
+  m_Name: BasketConfig
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 9128451043014216514, guid: 338333f687bf8a14b8245d7b3fb7acc1, type: 3}
+  BasketWidth: 2.8
+  BasketSpawnAnimationConfig: {fileID: 11400000, guid: 772751267899b09428cbb61a7ce2fe77, type: 2}
