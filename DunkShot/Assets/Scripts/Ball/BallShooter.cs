@@ -79,8 +79,7 @@ namespace DunkShot
         {
             if (CheckMinVelocity(out Vector2 shotVelocity))
             {
-                _ballTrajectory.Calculate(_currentBasketTransform.position, shotVelocity, 
-                    _ballShooterConfig.TrajectoryConfig.TrajectorySimulationTime);
+                _ballTrajectory.Calculate(_currentBasketTransform.position, shotVelocity);
 
                 _ballTrajectory.SetTrajectoryColorAlpha(shotVelocity.magnitude / _ballShooterConfig.MaxShotVelocity);
                 
